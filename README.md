@@ -27,9 +27,8 @@ npx expo start
 ```
 
 ## 🧩 Project Structure
-.
-├── App.tsx              # Entry point of the app
-├── package.json         # Dependency definitions
-├── node_modules/        # Installed packages
-├── assets/              # Static assets like images
-└── README.md            # This file
+- App.tsx              # Entry point of the app
+- package.json         # Dependency definitions
+- node_modules/        # Installed packages
+─ assets/              # Static assets like images
+─ README.md            # This file
