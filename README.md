@@ -28,12 +28,12 @@ npx expo start
 
 ## 🧩 Project Structure
 - App.tsx              
-  - # Entry point of the app
+  - Entry point of the app
 - package.json         
-  - # Dependency definitions
+  - Dependency definitions
 - node_modules/        
-  - # Installed packages
+  - Installed packages
 - assets/
-  - # Static assets like images
+  - Static assets like images
 - README.md            
-  - # This file 
+  - This file 
