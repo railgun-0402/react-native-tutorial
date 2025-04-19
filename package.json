@@ -1,12 +1,13 @@
 {
   "name": "react-native-expo-tutorial",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "src/screens/app.tsx",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "clean": "git clean -xdf .cache .expo android ios node_modules"
   },
   "dependencies": {
     "@expo/metro-runtime": "~4.0.1",
